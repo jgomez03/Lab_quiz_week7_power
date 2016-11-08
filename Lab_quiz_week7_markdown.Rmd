@@ -1,0 +1,15 @@
+---
+title: "lab_quiz7_markdown"
+author: "Jennifer Gomez"
+date: "November 8, 2016"
+output: pdf_document
+---
+
+
+
+
+```{r echo=FALSE, message=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
