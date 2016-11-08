@@ -5,6 +5,32 @@ date: "November 8, 2016"
 output: pdf_document
 ---
 
+a) Hypotheses
+
+1. I hypothesize that the relationship between self-esteem and academic performance will be large
+2. I hypothesize that there will be a medium - large negative relationship between self-esteem and quality of data relationships 
+3. I hypothesize that there will may be a weak postive relation between self-esteem and quality of friendships
+
+b) 
+
+##ANALYSIS PLAN A
+1. My analysis plan for hypothesis 1.is to proceed with the correlation of rho = .50, as this is the estimated population correlation.  With a p = .05 and power = 0.80, the projected sample size needed with this effect size is approximately N = 28. 
+
+2. My analysis plan for hypothesis 1.is to complete a safeguard analysis, as the sample correlation was from one study. With a p = .05 and power = 0.80, the projected sample size needed with this effect size is approximately N = 39. 
+
+3. My analysis plan for this hypothesis included completing a safeguard analysis using an approximate weak positive correlation of .07 based on Bosco et al. 2015.With a p = .05 and power = 0.80, the projected sample size needed with this effect size is approximately N = 1598. 
+
+To conduct this study, I would use an N of at least 1598. 
+
+##ANALYSIS PLAN B
+1. I began with a sample size of 100 and adjusted until the width of the CIs was less than .40. In order for the 95% CIs to be of a smaller magnitude, N = 40 is needed for p = .05 and power = 0.80, CI [.22, .70]
+
+2. I adjusted the sample size until the width of the CIs was less than magnitude of CI (n = 200). Using the lower bound CI (-.42) in the subsequent sample size estimation: with a p = .05 and power = 0.80, CI [-.42, -.16] the projected sample size needed with this effect size is approximately N = 41. 
+
+3.  I adjusted the sample size until the width of the CIs was less than magnitude of CI (n = 5000). Using the lower bound CI (- .04) in the subsequent sample size estimation: with a p = .05 and power = 0.80, CI 95% [.04, .09] the projected sample size needed with this effect size is approximately N = 4902. 
+
+To conduct this study, I would use an N of at least 4902. 
+
 
 
 
